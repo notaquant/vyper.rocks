@@ -1,4 +1,4 @@
-# Welcome to Vyper.rocks
+# Welcome to vyper.rocks
 
 This is a :construction: self-contained ebook to learn [vyper](https://vyper.readthedocs.io/en/stable/) the Python inspired smart contracts language.
 
