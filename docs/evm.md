@@ -14,7 +14,9 @@ to disk, RAM or networking it's essentially self-contained.
 
 ## EVM Opcodes
 
-EVM Opcodes can be found here or in the [reference] `geth` implementation [source].
+EVM Opcodes can be found here or in the [reference] `geth` implementation[^1].
+
+[^1]: There are other **evm** implementations such as [pyevm](https://github.com/ethereum/py-evm) which are easier to read.
 
 Each Opcode represents an operation (we only need a limited number to do pretty much anything we can think off) for example :
 

@@ -7,6 +7,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg  
   - pymdownx.highlight
   - pymdownx.superfences
+  - footnotes
 nav:
  - 'index.md'
  - 'concepts.md'
