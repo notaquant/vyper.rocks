@@ -1,6 +1,10 @@
-# Welcome to vyper.rocks
+# Welcome to Vyper.rocks
 
-This is a :construction: self-contained ebook to learn [vyper](https://vyper.readthedocs.io/en/stable/) the Python inspired smart contracts language.
+##  Vyper Tutorials
+
+This is a :construction: self-contained ebook to learn [Vyper](https://vyper.readthedocs.io/en/stable/) the Python inspired smart contracts language.
+
+![vyper-log](assets/vyper-logo-transparent.svg){ width=300; }
 
 ## What you will learn
 
@@ -16,7 +20,7 @@ This is a :construction: self-contained ebook to learn [vyper](https://vyper.rea
 
 ## Contributing to the book
 
-You can help contribute by writing tutorials or fixing any mistakes.
+You can contribute by writing tutorials or fixing any mistakes.
 
 ## License
 

@@ -1,4 +1,4 @@
-site_name: vyper.rocks
+site_name: Vyper.rocks
 theme:
   name: material
 markdown_extensions:
@@ -8,6 +8,7 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
   - footnotes
+  - attr_list
 nav:
  - 'index.md'
  - 'concepts.md'
