@@ -45,7 +45,7 @@ By going to **Logs** tab you can see clearly which *function* was called in the 
 [^2]: The ERC20 standard describes a generic smart contract implementation for a form of pseudo-bank.
 [^3]: This is the mainnet address of the [1.inch](https://app.1inch.io/) smart contract which is an exchange router.
 
-## The Ethereum World State
+### The Ethereum World State
 
 In the above drawing we used the word *World State* to describe the __environment__ that encodes the last
 known state version, as transactions arrive bundled in blocks all the transaction in that block execute
@@ -63,3 +63,12 @@ When an Ethereum node first joins the network it does just that, it will replay 
 
 
 [^4]: With [snapsync](https://blog.ethereum.org/2020/07/17/ask-about-geth-snapshot-acceleration/) nodes now can sync only a last known good copy of the state trie and replay the last *k*-blocks.
+
+#### The Species inside the Ethereum World State
+
+The Ethereum world has a very small taxonomy, there are essentially three data structures that you'll often interact with :
+
+* [Accounts](https://ethereum.org/en/developers/docs/accounts/)
+* [Transactions](https://ethereum.org/en/developers/docs/transactions/)
+* [Blocks](https://ethereum.org/en/developers/docs/blocks/)
+
